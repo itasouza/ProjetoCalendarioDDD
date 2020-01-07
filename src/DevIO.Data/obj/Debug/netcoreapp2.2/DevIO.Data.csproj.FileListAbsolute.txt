@@ -1,0 +1,11 @@
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\src\ProjetoCalendarioDDD\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
